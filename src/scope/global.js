@@ -20,6 +20,8 @@ function bestFruit() {
 bestFruit();
 
 
+/////////////////////////////
+
 function countries(){
     country = 'Mexico';
     console.log(country);
